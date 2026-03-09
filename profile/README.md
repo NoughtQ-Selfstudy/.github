@@ -13,6 +13,7 @@
     - [x] [Stanford CS106L (2025 Winter)](https://github.com/NoughtQ-Selfstudy/CS106L-assignments)（现代 C++ 入门）
 
 - 计算机图形学
+    - [x] [tiny-renderer](https://github.com/NoughtQ-Selfstudy/tiny-renderer)（用 C++ 编写的小型渲染器）
     - [ ] GAMES101
 
 - 计算机视觉
