@@ -14,7 +14,7 @@
 
 - 计算机图形学
     - [x] [tiny-renderer](https://github.com/NoughtQ-Selfstudy/tiny-renderer)（用 C++ 编写的小型渲染器）
-    - [ ] GAMES101
+    - [x] GAMES101
 
 - 计算机视觉
     - [ ] [Stanford CS231n (2025 Spring)](https://github.com/NoughtQ-Selfstudy/CS231n-Assignments)
